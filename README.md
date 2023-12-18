@@ -5,8 +5,7 @@
     <br>I'm a Network Analyst and Cybersecurity Student from Brazil.<br>
 
 </samp>
-
-  
+  <br>
   <img src="https://github.com/GFM-Network/GFM-Network/blob/53f2c51b265d6d53548855d288f08d9c7a483748/koko.gif" width="200"/>
 
 </p>
