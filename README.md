@@ -21,13 +21,5 @@
 
 Current Project: <a href="https://github.com/GFM-Network/Lineage">GFM-Network Lineage 2 Scripts.</a>
 
-<p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://br.linkedin.com/in/gabriel-gfm">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
-  &nbsp; &nbsp;
-  &nbsp;
-</p> 
-
-
 </samp>
 </details>
