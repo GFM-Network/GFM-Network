@@ -17,7 +17,7 @@
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+<img src="https://github.com/GFM-Network/GFM-Network/blob/78e6838a5d37663d368845b549da9c0d51f78669/bonfire.gif" width="200"/>
 
 Current Project: <a href="https://github.com/GFM-Network/Lineage">GFM-Network Lineage 2 Scripts.</a>
 
