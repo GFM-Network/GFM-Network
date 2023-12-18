@@ -6,6 +6,7 @@
 
 </samp>
 
+  
   <img src="https://github.com/GFM-Network/GFM-Network/blob/53f2c51b265d6d53548855d288f08d9c7a483748/koko.gif" width="200"/>
 
 </p>
@@ -26,8 +27,6 @@ Current Project: <a href="https://github.com/GFM-Network/Lineage">GFM-Network Li
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; &nbsp;
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 
 
